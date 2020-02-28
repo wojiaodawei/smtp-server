@@ -1,5 +1,7 @@
 # Implementation of a MTA (Mail Transfer Agent)
 
+~~ *This project was implemented in December 2015* ~~
+
 **nc** is used to program the mini server and the project is coded in bash, by respecting the RFC 5321 standard.
 
 The server allows, through a classic mail client, to send a mail that can then be read from a pop3 or imap client.
